@@ -1,5 +1,5 @@
-Hi everyone! My name is Lee
+Hi my name is Lee and I have recently completed the intense Northcoders bootcamp!
 
-I have recently started on my coding journey
+Technical Skills
 
-Excited to take the next step with Northcoders!
+JavaScript | HTML | PSQL | MongoDB | Node.JS | React | CSS | Bootstrap
