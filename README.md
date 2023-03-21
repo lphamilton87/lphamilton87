@@ -1,4 +1,4 @@
-Hi my name is Lee and I have recently completed the intense Northcoders bootcamp!
+Hi my name is Lee and I have recently completed the Northcoders Software Development bootcamp!
 
 Technical Skills
 
